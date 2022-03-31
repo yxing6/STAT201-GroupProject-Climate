@@ -1,2 +1,6 @@
 # STAT201-GroupProject-Climate
-Fiona Wang
+## Introduction
+Climate change refers to long-term shifts in temperatures and weather patterns (United Nations, n.d.-b). The Canadian Climate and Weather Database provides weather records from numerous weather stations across Canada. Each weather station contains weather records in hourly, daily, and monthly formats. We intend to study the presence of climate change from some historical years to the present. In order to obtain a meaningful and relatively large time span, the group queried stations with data available between 1950 and 2022. From the 8796 weather stations, the group randomly selected ABBOTSFORD A weather station to use for this study (Historical Data, 2021, November 25).
+
+The group chooses daily temperature and daily precipitation as the random variable across two categories - historical vs contemporary. In both variables, the group chooses to study the parameter mean. We believe that the difference in mean in daily temperature and precipitation can aid us to study the claimed effect of climate change: hotter temperature and increased drought (United Nations, n.d.-a). Thus, this project aims to answer:
+>Is there a significant difference in the weather record of the 1950s and the 2000s in terms of temperature and precipitation?
