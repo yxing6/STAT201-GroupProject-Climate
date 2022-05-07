@@ -7,11 +7,11 @@ We sampled from a weather station in BC, and examined two variables: daily tempe
 
 Summary of one test results: 
   
-**Null Hypothesis**:~~~~ <img src="https://render.githubusercontent.com/render/math?math=H_0^{1}: \mu_{ct} - \mu_{ht} = 0">  
-The difference in population mean of the contemporary daily mean temperature and the historical daily mean temperature is zero.  
+**Null Hypothesis**:     <img src="https://render.githubusercontent.com/render/math?math=H_0^{1}: \mu_{ct} - \mu_{ht} = 0">  
+The difference between the population mean of the contemporary daily temperature and the historical daily temperature is zero.  
   
-**Alternative Hypothesis**:~~ <img src="https://render.githubusercontent.com/render/math?math=H_A^{1}: \mu_{ct} - \mu_{ht} \neq 0">  
-The difference in population mean of the contemporary daily mean temperature and the historical daily mean temperature is not zero.  
+**Alternative Hypothesis**:  <img src="https://render.githubusercontent.com/render/math?math=H_A^{1}: \mu_{ct} - \mu_{ht} \neq 0">  
+The difference between the population mean of the contemporary daily temperature and the historical daily temperature is not zero.  
 
 | Test Statistic    | Observed Test Statistic |Method  | p-value | Lower CI  |  Upper CI
 | :----------: | :----------: | :----------: |:----------:| :---------:| :---------:
