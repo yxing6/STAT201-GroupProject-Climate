@@ -5,9 +5,9 @@ In STAT 201 - Statistical Inference for Data Science, we conducted a group proje
   
 We sampled from a weather station in BC, and examined two variables: daily temperature and yearly maximum rainfall over two category: historical and contemporary. Hypothesis testing and confidence interval are applied. Method of computer simulation by bootstrap and asymptotic are used to compare the test results. 
 
-Here is a summary of the results from one test: 
-**Null Hypothesis**: The difference in population mean of the contemporary daily mean temperature and the historical daily mean temperature is zero.  $H_0^{1}: \mu_{ct} - \mu_{ht} = 0$  
-**Alternative Hypothesis**: The difference in population mean of the contemporary daily mean temperature and the historical daily mean temperature is not zero. $H_A^{1}: \mu_{ct} - \mu_{ht} \neq 0$  
+Here is a summary of the results from one test:  
+**Null Hypothesis**: The difference in population mean of the contemporary daily mean temperature and the historical daily mean temperature is zero.  $$H_0^{1}: \mu_{ct} - \mu_{ht} = 0$$  
+**Alternative Hypothesis**: The difference in population mean of the contemporary daily mean temperature and the historical daily mean temperature is not zero. $$H_A^{1}: \mu_{ct} - \mu_{ht} \neq 0$$  
 
 | Test Statistic    | Observed Test Statistic |Method  | p-value | Lower CI  |  Upper CI
 | :----------: | :----------: | :----------: |:----------:| :---------:| :---------:
