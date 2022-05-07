@@ -7,14 +7,17 @@ We sampled from a weather station in BC, and examined two variables: daily tempe
 
 Summary of one test results: 
   
-**Null Hypothesis**: <img src="https://render.githubusercontent.com/render/math?math=H_0^{1}: \mu_{ct} - \mu_{ht} = 0"> The difference in population mean of the contemporary daily mean temperature and the historical daily mean temperature is zero.  
+**Null Hypothesis**: <img src="https://render.githubusercontent.com/render/math?math=H_0^{1}: \mu_{ct} - \mu_{ht} = 0">  
+The difference in population mean of the contemporary daily mean temperature and the historical daily mean temperature is zero.  
   
-**Alternative Hypothesis**: <img src="https://render.githubusercontent.com/render/math?math=H_A^{1}: \mu_{ct} - \mu_{ht} \neq 0">  The difference in population mean of the contemporary daily mean temperature and the historical daily mean temperature is not zero.  
+**Alternative Hypothesis**: <img src="https://render.githubusercontent.com/render/math?math=H_A^{1}: \mu_{ct} - \mu_{ht} \neq 0">  
+The difference in population mean of the contemporary daily mean temperature and the historical daily mean temperature is not zero.  
 
 | Test Statistic    | Observed Test Statistic |Method  | p-value | Lower CI  |  Upper CI
 | :----------: | :----------: | :----------: |:----------:| :---------:| :---------:
-| <img src="https://render.githubusercontent.com/render/math?math=\bar{x}_{ct} - \bar{x}_{ht} = 0">  | 1.258 |Simulation|<0.001|1.048|1.465|
-| <img src="https://render.githubusercontent.com/render/math?math=\bar{x}_{ct} - \bar{x}_{ht} = 0">  | 1.258 |Asymptotic |<0.001|1.055|1.461|
->**The p-value is < 0.001, we reject the null hypothesis <img src="https://render.githubusercontent.com/render/math?math=H_0^{1}"> in favor of <img src="https://render.githubusercontent.com/render/math?math=H_A^{1}"> at the 5% significant level. There is a significant difference between <img src="https://render.githubusercontent.com/render/math?math=\mu_{ct}"> and <img src="https://render.githubusercontent.com/render/math?math=\mu_{ht}">.**  
+| <img src="https://render.githubusercontent.com/render/math?math=\bar{x}_{ct} - \bar{x}_{ht}">  | 1.258 |Simulation|<0.001|1.048|1.465|
+| <img src="https://render.githubusercontent.com/render/math?math=\bar{x}_{ct} - \bar{x}_{ht}">  | 1.258 |Asymptotic |<0.001|1.055|1.461|
+>**The p-value is < 0.001, we reject the null hypothesis <img src="https://render.githubusercontent.com/render/math?math=H_0^{1}"> in favor of <img src="https://render.githubusercontent.com/render/math?math=H_A^{1}"> at the 5% significant level.  
+There is a significant difference between <img src="https://render.githubusercontent.com/render/math?math=\mu_{ct}"> and <img src="https://render.githubusercontent.com/render/math?math=\mu_{ht}">.**  
   
 Please feel free to explore our final report. Available in file format of ipynb and html. 
