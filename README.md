@@ -1,4 +1,4 @@
-### Verify the effect of climate change
+### Verify the Effect of Climate Change
 
 In STAT 201 - Statistical Inference for Data Science, we conducted a group project to study:  
 > **Is there a significant difference in the weather record of the 1950s and the 2000s in terms of temperature and precipitation?**
@@ -20,4 +20,4 @@ The difference between the population mean of the contemporary daily temperature
 >**The p-value is < 0.001, we reject the null hypothesis <img src="https://render.githubusercontent.com/render/math?math=H_0^{1}"> in favor of <img src="https://render.githubusercontent.com/render/math?math=H_A^{1}"> at the 5% significant level.  
 There is a significant difference between <img src="https://render.githubusercontent.com/render/math?math=\mu_{ct}"> and <img src="https://render.githubusercontent.com/render/math?math=\mu_{ht}">.**  
   
-Please feel free to explore our final report. Available in file format of ipynb and html. 
+Please feel free to explore our final report for detailed analysis and result discussion. Available in file format of ipynb and html. 
