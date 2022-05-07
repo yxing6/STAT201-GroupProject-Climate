@@ -7,7 +7,7 @@ We sampled from a weather station in BC, and examined two variables: daily tempe
 
 Summary of one test results: 
   
-**Null Hypothesis**:        <img src="https://render.githubusercontent.com/render/math?math=H_0^{1}: \mu_{ct} - \mu_{ht} = 0">  
+**Null Hypothesis**:            <img src="https://render.githubusercontent.com/render/math?math=H_0^{1}: \mu_{ct} - \mu_{ht} = 0">  
 The difference between the population mean of the contemporary daily temperature and the historical daily temperature is zero.  
   
 **Alternative Hypothesis**: <img src="https://render.githubusercontent.com/render/math?math=H_A^{1}: \mu_{ct} - \mu_{ht} \neq 0">  
